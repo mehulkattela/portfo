@@ -45,7 +45,7 @@ pluggy==0.13.1
 pre-commit==2.5.1
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-py==1.8.1
+py==1.10.0
 Pygments==2.6.1
 pyjokes==0.6.0
 PyJWT==1.7.1
